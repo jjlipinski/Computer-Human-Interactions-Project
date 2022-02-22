@@ -8,4 +8,4 @@ Problem of Study: There is a reduction of in-class feedback, and it is more diff
 
 
 Milestone Links:
-<a href="jjlipinski.github.io/LJL/HCI%20Milestone%202.pdf" target="_blank">Mile Stone 2</a>
+<a href="HCI Milestone 2.pdf" target="_blank">Mile Stone 2</a>
