@@ -7,4 +7,5 @@ Team Members: Lizy Hoepfinger, Lindsey Sperrey, Jessica Lipinski
 Problem of Study: There is a reduction of in-class feedback, and it is more difficult to review topics discussed in class because students can’t review recorded zoom lectures anymore. With the return of face to face instruction, students now lack the affordances of being able to rewatch recorded lectures and have online discussions. 
 
 
-Milestone Links
+Milestone Links:
+<a href="jjlipinski.github.io/LJL/HCI%20Milestone%202.pdf" target="_blank">Mile Stone 2</a>
