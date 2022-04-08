@@ -10,4 +10,4 @@
 **Milestone Links:**
 - <a href="HCI Milestone 1.pdf" target="_blank">Milestone 1</a>
 - <a href="HCI Milestone 2-2.pdf" target="_blank">Milestone 2</a>
-- <a href="HCI Milestone 3.pdf" target="_blank">Milestone 2</a>
+- <a href="HCI Milestone 3.pdf" target="_blank">Milestone 3</a>
