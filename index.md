@@ -12,4 +12,4 @@
 - <a href="HCI Milestone 2-2.pdf" target="_blank">Milestone 2</a>
 - <a href="HCI Milestone3.pdf" target="_blank">Milestone 3</a>
 - <a href="HCI Milestone4.pdf" target="_blank">Milestone 4</a>
-- <a href="FairUseNote.pdf" target="_blank">Fair Use Notice</a>
+- <a href="FairUseNote.md" target="_blank">Fair Use Notice</a>
